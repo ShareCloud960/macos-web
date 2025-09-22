@@ -1,4 +1,4 @@
-import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
+eltejs/vite-plugin-svelte';
 
 export default {
 	preprocess: vitePreprocess({
